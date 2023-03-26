@@ -1,0 +1,35 @@
+#left_panel{
+  height:1000px;
+  width:300px;
+  background-color: blue;
+  float:left;
+}
+
+#right_panel{
+  height:1000px;
+  width:700px;
+  background-color: yellowgreen;
+  float:left;
+}
+
+#container{
+  margin-left:200px;
+}
+
+#header{
+  height:100px;
+  background-color: blanchedalmond;
+  width:700px;
+}
+
+
+#main_content{
+  height:800px;
+  background-color:blueviolet;
+  width:700px;
+}
+#footer{
+  height:100px;
+  background-color:red;
+  width:700px;
+}
